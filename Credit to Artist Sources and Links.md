@@ -61,6 +61,16 @@ https://x.com/NostalgiaTree
 </details>
 
 <details>
+<summary>[3840 x 1646] clouds-idea-copia.jpg</summary>
+Artist: Francesco Pizzo
+
+https://francescopizzo.artstation.com/
+
+https://x.com/francpizzo
+
+</details>
+
+<details>
 <summary>Click to expand</summary>
 
 This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
