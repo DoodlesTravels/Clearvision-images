@@ -6,7 +6,7 @@ If you like the artwork please consider following them! :)
 <details>
 <summary>[1280 x 560] anime-coffee.gif</summary>
   - Artist: RedWK34  <br />
-`[Tumblr Link](https://redwk34.tumblr.com/post/174783574792`)  <br />
+[Tumblr Link](https://redwk34.tumblr.com/post/174783574792)  <br />
 [X Link](https://x.com/RedWK34)  <br />
 
 </details>
@@ -30,3 +30,5 @@ https://x.com/Kldpxl
 This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
 
 </details>
+
+[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
