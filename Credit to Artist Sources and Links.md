@@ -4,10 +4,12 @@ None of this artwork is mine soo....\
 If you like the artwork please consider following them! :)
 
 <details>
-<summary>[1280 x 560] anime-coffee.gif<>
+<summary>[1280 x 560] anime-coffee.gif</summary>
   - Artist: RedWK34
   - https://redwk34.tumblr.com/post/174783574792
   - https://x.com/RedWK34
+
+</details>
 
 [1920 x 1080]  Spring Station.jpg\
 Afterthought Studios
