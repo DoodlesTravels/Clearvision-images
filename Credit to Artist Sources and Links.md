@@ -36,6 +36,8 @@ https://x.com/Kldpxl  <br />
 
 https://linktr.ee/sameart
 
+https://www.reddit.com/r/PixelArt/comments/rno1no/merry_christmas_everyone/
+
 </details>
 
 <details>
