@@ -5,14 +5,18 @@ If you like the artwork please consider following them! :)
 
 <details>
 <summary>[1280 x 560] anime-coffee.gif</summary>
-  - Artist: RedWK34  <br />
-  - https://redwk34.tumblr.com/post/174783574792 <br />
-  - https://x.com/RedWK34  <br />
+  
+Artist: RedWK34
+  
+https://redwk34.tumblr.com/post/174783574792
+  
+https://x.com/RedWK34
 
 </details>
 
 <details>
 <summary>[1920 x 1080] Spring Station.jpg</summary>
+  
 Afterthought Studios
 
 https://store.steampowered.com/app/563520/When_Our_Journey_Ends__A_Visual_Novel  <br />
@@ -23,6 +27,7 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-563520  <br />
 
 <details>
 <summary>[1920 x 1080] Airport Terminal.png</summary>
+  
 Artist : Khaled
 
 https://kldpxl.tumblr.com/image/180950108582  <br />
@@ -33,6 +38,8 @@ https://x.com/Kldpxl  <br />
 
 <details>
 <summary>[1920 x 1080] winter_pixel.jpg</summary>
+  
+Artist: Sazem
 
 https://linktr.ee/sameart
 
@@ -52,6 +59,7 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-952420
 
 <details>
 <summary>[1920 x 1209] Decrepit Autumn.png</summary>
+  
 Artist: NostalgiaTree
 
 https://www.deviantart.com/nostalgictree
