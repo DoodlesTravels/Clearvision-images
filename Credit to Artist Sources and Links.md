@@ -1,5 +1,5 @@
-I'll try and update this as much as possible\ 
-You can find the commit per wallpaper for the credit or it is listed here as well...\
+I'll try and update this as much as possible 
+You can find the commit per wallpaper for the credit with the link or it is listed here as well...\
 None of this artwork is mine soo....\
 If you like the artwork please consider following them! :)
 
