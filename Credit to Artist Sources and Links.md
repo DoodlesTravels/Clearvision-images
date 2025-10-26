@@ -50,7 +50,15 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-952420
 
 </details>
 
+<details>
+<summary>[1920 x 1209] Decrepit Autumn.png</summary>
+Artist: NostalgiaTree
 
+https://www.deviantart.com/nostalgictree
+
+https://x.com/NostalgiaTree
+
+</details>
 
 <details>
 <summary>Click to expand</summary>
