@@ -24,7 +24,8 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-563520  <br />
 <details>
 <summary>[1920 x 1080] Airport Terminal.png</summary>
 Artist : Khaled
-https://kldpxl.tumblr.com/image/180950108582  <br />  
+https://kldpxl.tumblr.com/image/180950108582  <br />
+  
 https://x.com/Kldpxl  <br />  
 
 </details>
