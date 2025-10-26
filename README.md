@@ -4,9 +4,9 @@ This includes the following below:
 - Home Icon
 
 # Intructions: 
-Click on the image you want
-Right click to open image in new tab
-Copy the link and insert into your Clearvision theme.css
+- Click on the image you want
+- Right click to open image in new tab
+- Copy the link and insert into your Clearvision theme.css
 
 Have Fun, and experiement to your heart's content! :)
 
