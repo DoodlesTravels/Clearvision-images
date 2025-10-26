@@ -44,9 +44,9 @@ https://www.reddit.com/r/PixelArt/comments/rno1no/merry_christmas_everyone/
 <details>
 <summary>[1920 x 1200] Floral Teahouse.jpg</summary>
 
-[[https://linktr.ee/sameart](https://store.steampowered.com/app/952420/Shan_Gui_II_Sweet_Osmanthus_II/?curator_clanid=7048508)](https://store.steampowered.com/app/952420/Shan_Gui_II_Sweet_Osmanthus_II/?curator_clanid=7048508)
-[
-https://www.reddit.com/r/PixelArt/comments/rno1no/merry_christmas_everyone/](https://www.steamcardexchange.net/index.php?gamepage-appid-952420)
+https://store.steampowered.com/app/952420/Shan_Gui_II_Sweet_Osmanthus_II/?curator_clanid=7048508
+
+https://www.steamcardexchange.net/index.php?gamepage-appid-952420
 
 </details>
 
