@@ -15,19 +15,19 @@ If you like the artwork please consider following them! :)
 <summary>[1920 x 1080] Spring Station.jpg</summary>
 Afterthought Studios
 
-https://store.steampowered.com/app/563520/When_Our_Journey_Ends__A_Visual_Novel  <br />
+https://store.steampowered.com/app/563520/When_Our_Journey_Ends__A_Visual_Novel
 
-https://www.steamcardexchange.net/index.php?gamepage-appid-563520  <br />
+https://www.steamcardexchange.net/index.php?gamepage-appid-563520
 
 </details>
 
-<details>
-<summary>[1920 x 1080] Airport Terminal.png</summary>
+
+[1920 x 1080] Airport Terminal.png
 Artist : Khaled\
-https://kldpxl.tumblr.com/image/180950108582  <br />
-https://x.com/Kldpxl  <br />
+https://kldpxl.tumblr.com/image/180950108582  
+https://x.com/Kldpxl  
 
-</details>
+
 
 <details>
 <summary>Click to expand</summary>
