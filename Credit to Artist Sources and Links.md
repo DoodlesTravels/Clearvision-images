@@ -31,4 +31,4 @@ This is the content of the collapsible section. You can include any Markdown-for
 
 </details>
 
-[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
+[X](https://redwk34.tumblr.com/post/174783574792)
