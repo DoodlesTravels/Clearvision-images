@@ -32,6 +32,13 @@ https://x.com/Kldpxl  <br />
 </details>
 
 <details>
+<summary>[1920 x 1080] winter_pixel.jpg</summary>
+
+https://linktr.ee/sameart
+
+</details>
+
+<details>
 <summary>Click to expand</summary>
 
 This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
