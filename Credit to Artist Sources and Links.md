@@ -3,8 +3,8 @@ You can find the commit per wallpaper for the credit with the link or it is list
 None of this artwork is mine soo....\
 If you like the artwork please consider following them! :)
 
-
-- [1280 x 560] anime-coffee.gif
+<details>
+<summary>[1280 x 560] anime-coffee.gif<>
   - Artist: RedWK34
   - https://redwk34.tumblr.com/post/174783574792
   - https://x.com/RedWK34
@@ -21,3 +21,10 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-563520
 Artist : Khaled\
 https://kldpxl.tumblr.com/image/180950108582
 https://x.com/Kldpxl
+
+<details>
+<summary>Click to expand</summary>
+
+This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
+
+</details>
