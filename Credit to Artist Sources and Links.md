@@ -21,13 +21,13 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-563520
 
 </details>
 
-
-[1920 x 1080] Airport Terminal.png
-Artist : Khaled\
+<details>
+<summary>[1920 x 1080] Airport Terminal.png</summary>
+Artist : Khaled
 https://kldpxl.tumblr.com/image/180950108582  
 https://x.com/Kldpxl  
 
-
+</details>
 
 <details>
 <summary>Click to expand</summary>
