@@ -7,7 +7,7 @@ If you like the artwork please consider following them! :)
 <summary>[1280 x 560] anime-coffee.gif</summary>
   - Artist: RedWK34  <br />
   - https://redwk34.tumblr.com/post/174783574792 <br />
-[X Link](https://x.com/RedWK34)  <br />
+  - https://x.com/RedWK34  <br />
 
 </details>
 
