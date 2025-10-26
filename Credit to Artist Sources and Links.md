@@ -58,6 +58,15 @@ https://www.steamcardexchange.net/index.php?gamepage-appid-952420
 </details>
 
 <details>
+<summary>[1920 x 1200] Quiet Night.jpg</summary>
+  
+Artist: Vlad Gerasimov
+
+https://vlad.studio/wallpaper/quiet_night
+
+</details>
+
+<details>
 <summary>[1920 x 1209] Decrepit Autumn.png</summary>
   
 Artist: NostalgiaTree
